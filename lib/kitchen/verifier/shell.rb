@@ -17,6 +17,7 @@
 # limitations under the License.
 
 require "kitchen/verifier/base"
+require "net/ssh/test/socket"
 
 module Kitchen
 
